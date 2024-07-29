@@ -32,7 +32,7 @@ This paper identifies a convexity bias in using inflation swap rates to estimate
 
 ![Inflation Tail Risk](/DIST1.jpg)
 
-## Lectures
+## Teaching
 -  **Financial Derivatives and Their Applications**, Spring 2024, CBS: Taught the theoretical part of the lecture series on financial derivatives to undergraduate students (_Forwards & Futures, Options and their Non-model Based Properties, The Multi-period Binomial Model, Wiener Processes and Ito’s Lemma, Derivatives Pricing in the BSM Model, Extended BSM Pricing of Futures, FX and Index Options_)
 - **Corporate Finance**, Spring & Autumn 2023, CBS: Taught the exercise classes for the undergraduate course in Corporate Finance
 - **Thesis Supervision**, Year-Round, CBS: Supervised several undergraduate and graduate theses on topics including derivatives, sustainable finance, and asset pricing.
