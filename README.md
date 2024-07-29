@@ -9,11 +9,11 @@
 
 ## Work Experience
 **Research Analyst Institutional-Quant @ Raiffaisen Bank International (_September 2021 - September 2022_)**
-- Conducting research on credit-, rates-, and ESG-related topics
+- Conducting research on Credit-, Rates-, and ESG-related topics
 -	Automation of data queries and calculations using Phyton and VBA
 
 **Analyst Financial Markets (_March 2021 - September 2021_)**
-- Determining market prices for FX and rates-related transactions requested by clients, including CVA adjustments
+- Determining market prices for FX and Rates-related transactions requested by clients, including CVA adjustments
 - Assisting clients in structuring and implementing corporate hedging strategies
 
 ## Academic Research
@@ -33,7 +33,7 @@ This paper identifies a convexity bias in using inflation swap rates to estimate
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Lectures
--  **Financial Derivatives and Their Applications**, Spring 2024, CBS: Taught the theoretical part of the lecture series on financial derivatives to undergraduate students (Forwards & Futures, Options and their Non-model Based Properties, The Multi-period Binomial Model, Wiener Processes and Itˆo’s Lemma, Derivatives Pricing in the BSM Model,  Extended BSM Pricing of Futures, FX and Index Options)
+-  **Financial Derivatives and Their Applications**, Spring 2024, CBS: Taught the theoretical part of the lecture series on financial derivatives to undergraduate students (_Forwards & Futures, Options and their Non-model Based Properties, The Multi-period Binomial Model, Wiener Processes and Ito’s Lemma, Derivatives Pricing in the BSM Model, Extended BSM Pricing of Futures, FX and Index Options_)
 - **Corporate Finance**, Spring & Autumn 2023, CBS: Taught the exercise classes for the undergraduate course in Corporate Finance
 - **Thesis Supervision**, Year-Round, CBS: Supervised several undergraduate and graduate theses on topics including derivatives, sustainable finance, and asset pricing.
 
