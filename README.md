@@ -18,11 +18,13 @@ This paper identifies a convexity bias in using inflation swap rates to estimate
 
 
 ## Work Experience
-**Research Analyst Institutional-Quant @ Raiffaisen Bank International (_September 2021 - September 2022_)**
+**Research Analyst Institutional-Quant @ Raiffaisen Bank International 
+(_September 2021 - September 2022_)**
 - Conducting research on Credit-, Rates-, and ESG-related topics
 -	Automation of data queries and calculations using Phyton and VBA
 
-**Analyst Financial Markets @ Standard Chartered (_March 2021 - September 2021_)**
+**Analyst Financial Markets @ Standard Chartered 
+(_March 2021 - September 2021_)**
 - Determining market prices for FX and Rates-related transactions requested by clients, including CVA adjustments
 - Assisting clients in structuring and implementing corporate hedging strategies
 
