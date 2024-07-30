@@ -3,3 +3,7 @@ logo:
   - /assets/Picture1.jpg
 show_downloads: true
 theme: jekyll-theme-Chirpy
+social:
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/sebastian-luber-2aba9a147/"
+    icon: "fab fa-linkedin"
