@@ -34,7 +34,7 @@ This paper identifies a convexity bias in using inflation swap rates to estimate
 - **Thesis Supervision**, Year-Round, CBS: Supervised several undergraduate and graduate theses on topics including derivatives, sustainable finance, and asset pricing
 
 ## PhD Courses
-- Continious Time Finance (Stockholm School of Economics)
+- Continuous Time Finance (Stockholm School of Economics)
 - Macroeconomic Forecasting and Analysis in the Machine Learning Era (Italian Econometric Association & Bank of Italy)
 - Big Data Asset Pricing (CBS)
 - Empirical Finance (CBS)
