@@ -1,10 +1,9 @@
 title: Sebastian Luber
 logo: /assets/Picture1.jpg
 description: "Ph.D. in Finance, CBS/UCLA"
+<a href="/">View My LinkedIn Profile</a> 
 show_downloads: true
 theme: jekyll-theme-minimal
 ---
 
 ![Sebastian Luber](/assets/Picture1.jpg){:style="width:50%;"}
-<a href="https://www.linkedin.com/in/your-profile"><i class="fab fa-linkedin"></i></a> 
-<a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i></a>
