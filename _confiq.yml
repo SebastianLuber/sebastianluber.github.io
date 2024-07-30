@@ -1,5 +1,7 @@
-title: Shaw Talebi
+title: Sebastian Luber
 logo: /assets/Picture1.png
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
