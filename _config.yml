@@ -1,6 +1,10 @@
 title: Sebastian Luber
 logo: /assets/Picture1.jpg
 description: PhD. in Finance, CBS/UCLA
+<br><br>
+  <a href="https://www.linkedin.com/in/jacob-lundeen-b49b8390/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
+  <br><br>
+  <a href="https://rpubs.com/jacoblundeen"> <img src="https://img.shields.io/badge/RPubs-blue?logo=R"> </a>
 #show_downloads: true
 theme: jekyll-theme-minimal
-<a href="your-link">👔 LinkedIn</a>
+
