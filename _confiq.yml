@@ -1,7 +1,3 @@
-title: Sebastian Luber
-logo: /assets/Picture1.png
-#description: text below image
-show_downloads: true
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
+remote_theme: pages-themes/minimal@v0.2.0  
+plugins:  
   - jekyll-remote-theme
