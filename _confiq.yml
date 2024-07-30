@@ -2,7 +2,7 @@ title: Sebastian Luber
 logo:
   - /assets/Picture1.jpg
 show_downloads: true
-theme: jekyll-theme-Chirpy
+theme: jekyll-theme-minimal
 social:
   - name: LinkedIn
     url: "https://www.linkedin.com/in/sebastian-luber-2aba9a147/"
