@@ -1,8 +1,7 @@
 title: Sebastian Luber
 logo: /assets/Picture1.jpg
 description: "Ph.D. in Finance, CBS/UCLA"
-<a href="your-link">👔 LinkedIn</a>
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
 ---
 
