@@ -17,7 +17,7 @@ This paper identifies a convexity bias in using inflation swap rates to estimate
 ![Inflation Tail Risk](/assets/DIST1.jpg)
 
 
-  ## Work Experience
+## Work Experience
 **Research Analyst Institutional-Quant @ Raiffaisen Bank International (_September 2021 - September 2022_)**
 - Conducting research on Credit-, Rates-, and ESG-related topics
 -	Automation of data queries and calculations using Phyton and VBA
