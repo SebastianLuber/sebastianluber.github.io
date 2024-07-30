@@ -3,6 +3,11 @@ logo: /assets/Picture1.jpg
 description: "Ph.D. in Finance, CBS/UCLA"
 #show_downloads: true
 theme: jekyll-theme-minimal
+social:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/sebastian-luber-2aba9a147
+  - name: Email
+    url: sl.fi@cbs.dk
 ---
 
 ![Sebastian Luber](/assets/Picture1.jpg){:style="width:50%;"}
