@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, SAS, VBA
 
 ## Education
-- Ph.D., Finance | CBS (_ongoing_)								       		
-- MSc., Finance	| The University of Vienna			        		
-- BSc., Economics | The University of Regensburg
+- Ph.D., Finance, CBS (_ongoing_)								       		
+- MSc., Finance,  The University of Vienna			        		
+- BSc., Economics, The University of Regensburg
 
 ## Work Experience
 **Research Analyst Institutional-Quant @ Raiffaisen Bank International (_September 2021 - September 2022_)**
