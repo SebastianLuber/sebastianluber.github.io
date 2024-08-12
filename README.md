@@ -16,6 +16,11 @@ This paper identifies a convexity bias in using inflation swap rates to estimate
 
 ![Mind the Inflation Swap](/assets/DIST1.jpg)
 
+## Blog Posts
+### PCA on Inflation Swaps
+[Publication](https://medium.com/@bastiluber12/pca-on-inflation-swaps-69077159ec0e)
+
+This study applies Principal Component Analysis (PCA) to the zero-coupon inflation swap curve, identifying three key components—level, slope, and curvature—that account for over 99% of its variation from 2009 to 2023. Building on these insights, a new duration measure is introduced, enabling independent hedging of each component. The study also demonstrates how to construct a portfolio that remains neutral to changes in all three principal components.
 
 ## Work Experience
 **Research Analyst Institutional-Quant @ Raiffaisen Bank International 
