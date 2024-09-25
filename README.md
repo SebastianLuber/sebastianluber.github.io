@@ -2,7 +2,7 @@
 
 ## Academic Research
 ### Inflation Tail Risk
-[Publication]()
+[Publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4920495)
 
 The study demonstrates that future inflation risk is priced into stock returns and credit spreads. This holds true even when controlling for current and historical inflation moments. The analysis employs inflation caps and floors to obtain the
 distribution of future inflation under the risk-neutral measure. Credit spreads decrease as the mean and median of future inflation rise, but they respond positively to tail risks. Conversely, stocks serve as a robust hedge against future inflation. Stock returns increase with a higher mean and median of future inflation and rising inflationary tail risk, while they decrease with rising deflationary tail risk. **Quantitative Methods**: SABR Model, Optimization Algorithms, Gradient Descent, Regressions, **Programming Language**: Python
