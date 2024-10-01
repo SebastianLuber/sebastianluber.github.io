@@ -10,7 +10,7 @@ distribution of future inflation under the risk-neutral measure. Credit spreads 
 ![Inflation Tail Risk](/assets/DIST.jpg)
 
 ### Mind the Inflation Swap
-[Publication]()
+[Publication](https://www.dropbox.com/scl/fi/vbryf7ax5t9xltewkeelw/Mind-the-Inflation-Swap.pdf?rlkey=jxr55ujfxp6y080crb0wlqb7l&st=3bmdkp6f&dl=0)
 
 This paper identifies a convexity bias in using inflation swap rates to estimate market inflation expectations. We propose a correction method using inflation caps and floors for more accurate estimates. Our analysis reveals that this bias is particularly pronounced during periods of high inflation uncertainty, when accurate measurements of inflation expectations are most crucial. We demonstrate that this bias has historically led to significant economic impacts on the measure of long-term inflation expectations. It has also introduced measurement errors in related variables, such as real interest rates and the inflation risk premium, leading to inconsistencies in the signs of these measures. **Quantitative Methods**: Taylor Expansion, SABR Model, Optimization Algorithms, Gradient Descent, Regressions, **Programming Language**: Python
 
