@@ -28,7 +28,7 @@ This paper identifies a convexity bias in using inflation swap rates to estimate
 ## Blog Posts
 
 ### Random Forests and Credit Ratings
-[Publication](https://medium.com/p/1905d8e4b0c3))
+[Publication](https://medium.com/p/1905d8e4b0c3)
 
 I apply a Random Forest model to automate credit ratings. Using only six features, the model achieves 80\% out-of-sample accuracy. The feature importance analysis reveals that Loan Loss Provisions and Size are the most influential variables. Even when predictions are incorrect, the model generally maintains the distinction between investment and speculative grades, demonstrating the effectiveness of machine learning in credit rating assessment.
 
