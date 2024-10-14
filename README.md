@@ -9,6 +9,15 @@ distribution of future inflation under the risk-neutral measure. Credit spreads 
 
 ![Inflation Tail Risk](/assets/DIST.jpg)
 
+
+### Cross-Sectional Stock-Treasury Correlations
+[Publication](https://www.dropbox.com/scl/fi/1i9q2mwgd5retkbolcz6o/Cross-Sectional-Drivers-of-Stock-Treasury-Correlations.pdf?rlkey=3jhp1unulgzr9ki42xn90ms2p&st=epqc2wjo&dl=0)
+
+This study investigates how stock characteristics improve the explanation and forecasting of correlations between individual equities and the Treasury market, complementing prior research on aggregate index correlations. By analyzing stock themes, we demonstrate that equity-Treasury correlations vary based on cross-sectional theme rankings. Incorporating these themes into a Grouped Ridge Regression significantly improves correlation forecasts compared to the Heterogeneous Auto-Regressive benchmark model. This also leads to strong economic benefits, highlighted by lower realized volatility in Global Minimum Variance portfolios. Importantly, our approach is orthogonal to macroeconomic changes, offering valuable insights for investors managing multi-asset portfolios. **Quantitative Methods**: Grouped Ridge Regression, Elastic Net, Heterogeneous Auto-Regressive Model, Optimization Algorithms **Programming Language**: Python
+
+![Mind the Inflation Swap](/assets/cross.jpg)
+
+
 ### Mind the Inflation Swap
 [Publication](https://www.dropbox.com/scl/fi/vbryf7ax5t9xltewkeelw/Mind-the-Inflation-Swap.pdf?rlkey=jxr55ujfxp6y080crb0wlqb7l&st=3bmdkp6f&dl=0)
 
@@ -17,6 +26,14 @@ This paper identifies a convexity bias in using inflation swap rates to estimate
 ![Mind the Inflation Swap](/assets/DIST1.jpg)
 
 ## Blog Posts
+
+### Random Forests and Credit Ratings
+[Publication](https://medium.com/p/1905d8e4b0c3))
+
+I apply a Random Forest model to automate credit ratings. Using only six features, the model achieves 80\% out-of-sample accuracy. The feature importance analysis reveals that Loan Loss Provisions and Size are the most influential variables. Even when predictions are incorrect, the model generally maintains the distinction between investment and speculative grades, demonstrating the effectiveness of machine learning in credit rating assessment.
+
+![PCA on Inflation Swaps](/assets/random.jpg)
+
 ### PCA on Inflation Swaps
 [Publication](https://medium.com/@bastiluber12/pca-on-inflation-swaps-69077159ec0e)
 
